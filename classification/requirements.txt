@@ -28,5 +28,5 @@ scandir; python_version < "3.5"  # bỏ nếu dùng Python >= 3.5
 six==1.16.0
 termcolor==2.1.1
 torch==2.0.1
-torchvision==0.13.1
+torchvision==0.15.2
 tqdm==4.64.1
